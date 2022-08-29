@@ -1,0 +1,12 @@
+name: DungeonSimulator
+version: 1.0-SNAPSHOT
+main: me.icoding.dungeonsim.DungeonSimulator
+author: ICoding
+
+commands:
+  items:
+  collection:
+  thaumaturgist:
+  accessory:
+  item:
+  nbt:

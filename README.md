@@ -1,0 +1,3 @@
+# SkyblockCore-Standalone
+
+skyblock core
